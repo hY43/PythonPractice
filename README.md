@@ -1,7 +1,8 @@
 # PythonPractice
 
 ## 개발 환경 구성
-- Notepad ++
+- miniconda 32bit
+- Notepad++
 	- 플러그인 : NppExec, Explorer
 	- NppExec 실행 스크립트
 	  ```
