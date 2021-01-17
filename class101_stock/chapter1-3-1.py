@@ -31,7 +31,7 @@ restAccount = account % lgStockPrice
 print("남은 예수금 : %s" % restAccount);
 
 
-# LG 상사 종목의 2020년 6월 18일자 종가의 등락률을 구해라 (종가 - 전일종가) / 전일종가 X 100
+# 과제 : LG 상사 종목의 2020년 6월 18일자 종가의 등락률을 구해라 (종가 - 전일종가) / 전일종가 X 100
 def myRound(targetRate) :
     return round(targetRate * 100) / 100
     
